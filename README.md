@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to Samarth Estates &#9978; &#9989;
+This web application is avialable in this domain : https://samarth-estates.vercel.app
+<br/> <br/>
+![estate-ss-1](https://user-images.githubusercontent.com/104615876/220991473-408e6c3e-3d05-4714-8d75-daf4f2e5df60.jpg)
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
