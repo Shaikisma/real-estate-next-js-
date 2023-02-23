@@ -7,7 +7,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>Stark Estates</title>
+        <title>Samarth Estates</title>
       </Head>
       <Box maxWidth='1280px' m='auto'>
         <header>
