@@ -1,7 +1,7 @@
 # Welcome to Samarth Estates &#9978; &#9989;
 This web application is avialable in this domain : https://samarth-estates.vercel.app
 <br/> <br/>
-![estate-ss-2](https://user-images.githubusercontent.com/104615876/221071343-b147eb2f-3ec9-4841-8e42-5854ed22d144.jpg)
+![Screenshot 2023-02-27 191748](https://user-images.githubusercontent.com/104615876/221580832-30bce823-5eb0-4833-a40c-d3aa0e78dc9a.jpg)
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
