@@ -1,4 +1,4 @@
-# Welcome to Samarth Estates &#9978; &#9989;
+# Welcome to Samarth Estates &#9978;
 This web application is avialable in this domain : https://samarth-estates.vercel.app
 <br/> <br/>
 ![Screenshot 2023-02-27 191748](https://user-images.githubusercontent.com/104615876/221580832-30bce823-5eb0-4833-a40c-d3aa0e78dc9a.jpg)
